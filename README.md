@@ -36,7 +36,7 @@ JIRA_API_URL="https://your-domain.atlassian.net/rest/api/2/issue" адрес в�
 JIRA_BASE_URL="https://your-domain.atlassian.net" адрес вашей Jira
 BLOCKED_CHAT_ID="123456789" это чат в котором не будут работать комманды бота, пока это что строка))
 ACCESS_PASSWORD = "пароль для авторизации" 
-JIRA_PROJECT_KEY = "TEST" ключь проекта в jira
+JIRA_PROJECT_KEY = "TEST" ключ проекта в jira
 ADMIN_ID = [12345678, 1234567] telegram id аккаунтов администраторов, для доступа к функции разблокировки пользователей.
 ```
 переменные БД в файле task_storage.py и listener.py
